@@ -1,4 +1,4 @@
-package Dsa.numbers;
+package com.numbers;
 
 public class GcdHcf {
 	static public int min(int n, int m) {
